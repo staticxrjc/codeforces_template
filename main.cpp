@@ -3,7 +3,8 @@
 #include <iostream>
 #define LOCAL
 
-long long solve(int n, std::vector<int> a) {
+long long solve(int n, const std::vector<int>& a) {
+    return 0;
 }
 
 #ifdef LOCAL
