@@ -24,4 +24,6 @@ int main() {
     self_test();
     return EXIT_SUCCESS;
 #endif
+
+    std::cout << "Hello World\n";
 }
